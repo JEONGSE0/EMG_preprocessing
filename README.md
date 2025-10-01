@@ -1,8 +1,8 @@
 # EMG_preprocessing
 
-### EMG Signal 전처리 코드
+### EMG Signal Preprocessing code
 
-코드 참고 🙏\
+Reference 🙏\
 : https://github.com/pulp-bio/emgkit.git
 
 
